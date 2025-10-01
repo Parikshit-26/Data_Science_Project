@@ -78,7 +78,7 @@ You can run and inspect the data analysis code using a local Python environment 
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/parikshit-26/parikshit-26.github.io.git
-    cd yourusername.github.io
+    cd parikshit-26.github.io
     ```
 2.  **Open in Browser:** To test the site locally, open the `index.html` file in your web browser.
 
