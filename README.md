@@ -15,7 +15,7 @@ The analysis focuses on the relationship between municipal revenue, expenditure,
 The complete analysis, including interactive visualizations and conclusions, is deployed using **GitHub Pages**.
 
 **View the Live Site Here:**
-[View Website](https://www.google.com/search?q=http://parikshit-26.github.io) 
+[View Website](https://parikshit-26.github.io/parikshit.github.io/) 
 
 -----
 
